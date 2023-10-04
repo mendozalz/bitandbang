@@ -1,7 +1,7 @@
 {
-  "name": "bitandbang",
-  "version": "3.0.1",
-  "description": "A personal card for Tierney Cyren (@bitandbang)",
+  "name": "Tarjeta de presentación en terminal",
+  "version": "1.0.0",
+  "description": "Una tarjeta de presentación gracias a (@bitandbang)",
   "main": "/bin/card.js",
   "bin": {
     "bitandbang": "./bin/card.js"
