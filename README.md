@@ -1,16 +1,14 @@
-Hola Mi nombre es Lenin Mendoza un perpetuo aprendiz camino a convertirme un sabio permanente...
+Hola Mi nombre es Lenin Mendoza un perpetuo aprendiz camino a convertirme en un sabio permanente...
 
-# Usage
+![Tarjeta de presentacion](https://img001.prntscr.com/file/img001/UZPMvj4UT3ydlAtqazE0xA.png)
+
+# Uso
 
 ## npm
 ```
-npx bitandbang
+npm i tarjeta-presentacion-terminal
 ```
 
-## GitHub Package Registry
-Assuming you have the GitHub registry set up, you can use via npx:
-```
-npx @bnb/card
-```
+## Curiosea
 
-Not including how to use it globally because I'm not sure why you'd want this as a global command. That'd be creepy.
+Se un total curioso y juega con el codigo, solo debes modificar lo que ves según tus necesidades, Happy Coding

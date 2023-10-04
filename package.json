@@ -1,5 +1,5 @@
 {
-  "name": "Tarjeta de presentación en terminal",
+  "name": "tarjeta-presentacion-terminal",
   "version": "1.0.0",
   "description": "Una tarjeta de presentación gracias a (@bitandbang)",
   "main": "/bin/card.js",
@@ -10,7 +10,6 @@
     "type": "git",
     "url": "git+https://github.com/bnb/bitandbang.git"
   },
-  "homepage": "https://bnb.im",
   "scripts": {
     "prepublish": "npm run build",
     "build": "node build.js",
@@ -25,7 +24,7 @@
     "npx card",
     "business card"
   ],
-  "author": "Tierney Cyren <hello@bnb.im> (http://bnb.im)",
+  "author": "Autor de estos cambios Lenin Mendoza",
   "license": "MIT",
   "files": [
     "bin/card.js",
