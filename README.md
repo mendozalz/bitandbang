@@ -1,6 +1,6 @@
 Hola Mi nombre es Lenin Mendoza un perpetuo aprendiz camino a convertirme en un sabio permanente...
 
-![Tarjeta de presentacion](https://img001.prntscr.com/file/img001/UZPMvj4UT3ydlAtqazE0xA.png)
+![Tarjeta de presentacion](https://i.ibb.co/rmW7YT9/cart-terminal-mockup.png)
 
 # Uso
 
